@@ -15,7 +15,7 @@
   atom .
 
 ##  link to live site on GitHub Pages
-
+  https://dawndesign7.github.io/my-portfolio/
 
 ## Copyright and License information
   (c) 2020 Dawn M. Ndemo
