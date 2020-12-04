@@ -1,14 +1,20 @@
-Project name
+## Project name
   Portfolio Landing Page
-Author name
+
+## Author name
   Dawn Ndemo
-Project Description
+
+## Project Description
   This is a landing page for my portfolio, which is an academic project as Moringa school
 
-Project setup instructions
+## Project setup instructions
+  git clone https://github.com/DawnDesign7/my-portfolio
+  cd PortfolioIP
+  atom .
+
+## link to live site on GitHub Pages
 
 
-link to live site on GitHub Pages
-
-
-copyright and license information
+## COPYRIGHT and License information
+  (c) 2020 Dawn M. Ndemo
+  Licensed under the [MIT License](LICENSE)
