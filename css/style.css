@@ -21,3 +21,8 @@ body{
   padding; 10px;
   box-sizing: border-box;
 }
+
+.textwrap{
+  float: left;
+  margin: 10px;
+}
