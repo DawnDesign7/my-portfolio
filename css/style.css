@@ -1,0 +1,23 @@
+body{
+  background-color: #f4f4f4;
+  color: #555
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.6em;
+  margin: 0
+}
+#header{
+  border: 10px;
+  border-width: thick;
+  background-color: yellow;
+  color: black;
+}
+
+.block{
+  float: left;
+  width:33.3%;
+  border:1px solid #ccc;
+  padding; 10px;
+  box-sizing: border-box;
+}
