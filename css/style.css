@@ -1,3 +1,4 @@
+
 body{
   background-color: white;
   color: fff;
@@ -5,7 +6,7 @@ body{
   font-size: 16px;
   font-weight: normal;
   line-height: 1.6em;
-  margin: 0
+  margin: 15px
 }
 #header{
   padding: 60px;
@@ -19,27 +20,31 @@ img {
   border: 5px solid #1a9bde;
 }
 
-.block{
-  float: left;
-  width:33.3%;
-  border:3px solid #1a9bde;
-  padding; 10px;
-  box-sizing: border-box;
-}
-
 .textwrap{
   float: left;
   margin: 10px;
 }
-.box3{
-  background-color: #333;
-  color: white;
 
-}
 .box1{
   float: left;
   width:50%;
-  border:1px solid #ccc;
+  border:3px solid #1a9bde;
   padding; 10px;
   box-sizing: border-box;
+  background-color: #DBE3E8;
+  color: black;
+}
+.box2{
+  border:3px solid #1a9bde;
+  padding; 10px;
+  box-sizing: border-box;
+  background-color: #DBE3E8;
+  color: black;
+}
+.box3{
+  border:3px solid black;
+  padding; 10px;
+  box-sizing: border-box;
+  background-color: #1a9bde;
+  color: white;
 }
